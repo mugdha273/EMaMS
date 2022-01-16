@@ -1,4 +1,5 @@
-### Signup http://127.0.0.1:8000/api/signup/
+### Signup 
+http://127.0.0.1:8000/api/signup/
 ```
 {
     "email": "demo6@gmail.com",
@@ -8,7 +9,8 @@
 }
 
 ```
-### Login http://127.0.0.1:8000/api/login/
+### Login 
+http://127.0.0.1:8000/api/login/
 
 ```
 {
@@ -17,7 +19,8 @@
 }
 ```
 
-### Put your expenses: http://127.0.0.1:8000/api/expenses/
+### Put your expenses: 
+http://127.0.0.1:8000/api/expenses/
 
 ```
 {
